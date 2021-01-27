@@ -1,6 +1,6 @@
 # Registry Credentials
 
-Allow for Registry credentials to be refreshed inside your Kubernetes cluster via `ImagePullSecrets`.
+Allow for Registry credentials to be refreshed inside your Kubernetes cluster via `ImagePullSecrets`. 
 
 ## How it works
 
